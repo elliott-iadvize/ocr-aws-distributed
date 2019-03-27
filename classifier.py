@@ -57,7 +57,7 @@ class Classifier(object):
         """
 
         #Read bucket in order to extract classes and values
-        for object in self.oc_bucket.objects.filter(Prefix="images/a"):
+        for object in self.oc_bucket.objects.filter(Prefix="images/"):
             feature_file = object.key.replace("images/", "")
 
             #Extract classes and append them in list
