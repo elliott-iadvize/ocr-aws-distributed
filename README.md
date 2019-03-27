@@ -1,4 +1,4 @@
-# OCR#1 : Réalisez un apprentissage distribué
+# OCR#1 : Réalisez un apprentissage distribué - [~](https://github.com/elliott-iadvize/ocr-aws-distributed "~")
 
 ## Français
 
